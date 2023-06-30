@@ -1,2 +1,2 @@
 # cropsAi
-uses deep learning models to recognize crop patterns
+uses deep learning models to detect crop diseases, malnutrition and crop patterns
